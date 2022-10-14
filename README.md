@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <h1 align="center">Hi 👋, I'm Naman Kumar Singh</h1> -->
 <h2 align="center">🌱 Currently Learning Java Back-end Development at Masai School</h2>
 
-<img align= "right" alt="coding" width= "400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align= "right" alt="coding" width= "400" src= "https://vidi.no/wp-content/uploads/2020/07/utvikler.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhnaman320&label=Profile%20views&color=0e75b6&style=flat" alt="singhnaman320" /> </p>
 
