@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MasterHead](https://www.linkpicture.com/q/Untitled_256.png)
+![MasterHead](https://a-static.besthdwallpaper.com/hi-tech-abstract-dark-interface-wallpaper-2048x576-63714_71.jpg)
 
 <!-- <h1 align="center">Hi 👋, I'm Naman Kumar Singh</h1> -->
 <h2 align="center">🌱 Currently Learning Java Back-end Development at Masai School</h2>
