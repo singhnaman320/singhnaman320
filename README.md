@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MasterHead](https://a-static.besthdwallpaper.com/hi-tech-abstract-dark-interface-wallpaper-2048x576-63714_71.jpg)
+![MasterHead](https://thumbs.dreamstime.com/b/future-technology-concept-person-using-laptop-computer-future-technology-concept-person-using-laptop-249332126.jpg)
 
 <!-- <h1 align="center">Hi 👋, I'm Naman Kumar Singh</h1> -->
 <h2 align="center">🌱 Currently Learning Java Back-end Development at Masai School</h2>
