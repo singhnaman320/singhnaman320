@@ -59,10 +59,7 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=#00C7B7) 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhnaman320&show_icons=true&locale=en&layout=compact" alt="singhnaman320" /></p> 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhnaman320&show_icons=true&locale=en" alt="singhnaman320" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhnaman320&" alt="singhnaman320" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=singhnaman320&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
