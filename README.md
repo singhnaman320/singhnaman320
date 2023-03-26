@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Naman+and+Welcome+to+my+Profile" align="middle" alt="Hey, I'm Wesam and Welcome to my Profile👋 animated typed out" width="100%"/> -->
+
 ![MasterHead](https://thumbs.dreamstime.com/b/future-technology-concept-person-using-laptop-computer-future-technology-concept-person-using-laptop-249332126.jpg)
 
 <!-- <h1 align="center">Hi 👋, I'm Naman Kumar Singh</h1> -->
