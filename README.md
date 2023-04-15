@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Naman+and+Welcome+to+my+Profile" align="middle" alt="Hey, I'm Wesam and Welcome to my Profile👋 animated typed out" width="100%"/> -->
 
+
 ![MasterHead](https://thumbs.dreamstime.com/b/future-technology-concept-person-using-laptop-computer-future-technology-concept-person-using-laptop-249332126.jpg)
 
 <!-- <h1 align="center">Hi 👋, I'm Naman Kumar Singh</h1> -->
+<!-- <p>Aspiring Full Stack Web Developer who is analytical and meticulous. able to create full-stack online apps utilizing Java, Spring Boot, MySQL, and Hibernate on the backend and HTML, CSS, and JavaScript on the front end. Individuals who enjoy working in teams and are skilled at executing initiatives with a defined goal. I'm really interested in working as a software developer to enhance the user experience.</p> -->
 <h2 align="center">🌱 Currently Learning Java Back-end Development at Masai School</h2>
 
 <img align= "right" alt="coding" width= "400" src= "https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
