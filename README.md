@@ -38,10 +38,6 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://github.com/singhnaman320/singhnaman320.github.io/blob/master/Naman_Singh_Resume.pdf](https://github.com/singhnaman320/Resume/blob/master/fw19_0458-Naman_Singh_Resume.pdf)
 
-[![Naman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=singhnaman320&bg_color=0d1117&color=7feaf0&line=7feaf0&point=ffffff&area=true&hide_border=true)](https://github.com/singhnaman320/github-readme-activity-graph)
-
-<!--red: #ff004f -->
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/namankumar.singh.3) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_singhnaman) 
@@ -65,6 +61,11 @@ Here are some ideas to get you started:
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=#00C7B7) 
+
+# 📈 Contribution Graph:
+[![Naman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=singhnaman320&bg_color=0d1117&color=7feaf0&line=7feaf0&point=ffffff&area=true&hide_border=true)](https://github.com/singhnaman320/github-readme-activity-graph)
+
+<!--red: #ff004f -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
