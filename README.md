@@ -68,6 +68,18 @@ Here are some ideas to get you started:
 <!--red: #ff004f -->
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p align = "center">
+  <img width = 420 src="https://github-readme-stats.vercel.app/api?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img width = 460 src="https://github-readme-streak-stats.herokuapp.com/?user=singhnaman320&theme=dark&hide_border=false"/>
+</p>
+
+<p align = "center">
+  
+  <img width = 340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
+
+<!-- OR -->
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=singhnaman320&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
