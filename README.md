@@ -38,6 +38,9 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://github.com/singhnaman320/singhnaman320.github.io/blob/master/Naman_Singh_Resume.pdf](https://github.com/singhnaman320/Resume/blob/master/fw19_0458-Naman_Singh_Resume.pdf)
 
+[![Naman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=singhnaman320&bg_color=0d1117&color=7feaf0&line=7feaf0&point=ffffff&area=true&hide_border=true)](https://github.com/singhnaman320/github-readme-activity-graph)
+
+<!--red: #ff004f -->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/namankumar.singh.3) 
