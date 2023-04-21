@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **singhnaman320@gmail.com**
 
-- 📄 Know about my experiences **[https://github.com/singhnaman320/singhnaman320.github.io/blob/master/images/Naman_Singh_Resume.pdf](https://github.com/singhnaman320/singhnaman320.github.io/blob/master/images/Naman_Singh_Resume.pdf)**
+- 📄 Know about my experiences **[Resume](https://github.com/singhnaman320/singhnaman320.github.io/blob/master/images/Naman_Singh_Resume.pdf)**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/namankumar.singh.3) 
