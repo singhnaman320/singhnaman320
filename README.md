@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=#00C7B7) 
 
 ## 📈 Contribution Graph:
-[![Naman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=singhnaman320&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)]
+[![Naman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=singhnaman320&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)](https://github.com/singhnaman320/github-readme-activity-graph)
 
 <!-- (https://github.com/singhnaman320/github-readme-activity-graph) -->
 <!--red: #ff004f -->
