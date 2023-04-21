@@ -63,19 +63,20 @@ Here are some ideas to get you started:
 ![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=#00C7B7) 
 
 ## 📈 Contribution Graph:
-[![Naman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=singhnaman320&bg_color=0d1117&color=7feaf0&line=7feaf0&point=ffffff&area=true&hide_border=true)](https://github.com/singhnaman320/github-readme-activity-graph)
+[![Naman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=singhnaman320&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)](https://github.com/singhnaman320/github-readme-activity-graph)
 
 <!--red: #ff004f -->
+<!-- default: 7feaf0 -->
 
 ## 📊 GitHub Stats:
 <p align = "center">
-  <img width = 400 src="https://github-readme-stats.vercel.app/api?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img width = 400 src="https://github-readme-stats.vercel.app/api?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
 <img width = 435 src="https://github-readme-streak-stats.herokuapp.com/?user=singhnaman320&theme=dark&hide_border=false"/>
 </p>
 
 <p align = "center">
   
-  <img width = 340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img width = 340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
 
 <!-- OR -->
