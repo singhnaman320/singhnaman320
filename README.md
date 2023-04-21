@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **singhnaman320@gmail.com**
 
-- 👨‍💻 PortFolio available at **[Portfolio](https://singhnaman320.github.io/)** 
-
 - 📄 Know about my experiences [https://github.com/singhnaman320/singhnaman320.github.io/blob/master/Naman_Singh_Resume.pdf](https://github.com/singhnaman320/Resume/blob/master/fw19_0458-Naman_Singh_Resume.pdf)
 
 ## 🌐 Socials:
