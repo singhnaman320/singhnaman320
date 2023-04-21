@@ -36,9 +36,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **singhnaman320@gmail.com**
 
-- <a href="https://singhnaman320.github.io" target="blank">Portfolio</a>
-
-<!-- 👨‍💻 All of my projects are available at <a href="https://singhnaman320.github.io" target="blank">Portfolio</a> -->
+- 👨‍💻 All of my projects are available at <a href="https://singhnaman320.github.io" target="blank">Portfolio</a> -->
 <!-- **[Portfolio](https://singhnaman320.github.io)** -->
 
 ## 🌐 Socials:
