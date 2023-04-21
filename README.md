@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java, Springboot, MYSQL, Hibernate, HTML, CSS, Javascript, Data Structures and Algorithms.**
 
-- 👨‍💻 All of my projects are available at **[https://singhnaman320.github.io](https://singhnaman320.github.io)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://singhnaman320.github.io)**
 
 - 💬 Ask me about **Data Structures and Algorithms, Front-End Technologies, Back-End Technologies**
 
 - 📫 How to reach me **singhnaman320@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://github.com/singhnaman320/singhnaman320.github.io/blob/master/images/Naman_Singh_Resume.pdf)**
+- 📄 Know about my experiences [Resume](https://github.com/singhnaman320/singhnaman320.github.io/blob/master/images/Naman_Singh_Resume.pdf)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/namankumar.singh.3) 
