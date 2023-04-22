@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats:
 <p align = "center">
   <img width = 400 src="https://github-readme-stats.vercel.app/api?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-<img width = 435 src="https://github-readme-streak-stats.herokuapp.com/?user=singhnaman320&theme=dark&hide_border=false"/>
+<img width = 437 src="https://github-readme-streak-stats.herokuapp.com/?user=singhnaman320&theme=dark&hide_border=false"/>
 </p>
 
 <p align = "center">
