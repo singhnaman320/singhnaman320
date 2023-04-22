@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=#00C7B7) 
+![Spring Boot](https://img.shields.io/badge/spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring%20Boot&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/Hibernate-white.svg?style=for-the-badge&logo=Hibernate&logoColor=5a6354) 
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-white.svg?style=for-the-badge&logo=Thymeleaf&logoColor=005c0f) 
 
 ## 📈 Contribution Graph:
 ![Naman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=singhnaman320&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)
