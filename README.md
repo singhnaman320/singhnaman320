@@ -66,9 +66,13 @@ Here are some ideas to get you started:
 ## 📈 Contribution Graph:
 ![Naman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=singhnaman320&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)
 
+<!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
+
 <!-- (https://github.com/singhnaman320/github-readme-activity-graph) -->
 <!--red: #ff004f -->
 <!-- default: 7feaf0 -->
+
+<!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
 
 ## 📊 GitHub Stats:
 <p align = "center">
@@ -77,16 +81,23 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
+<!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
   
 <!--   <img width = 340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> -->
+  
+<!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
   
   <img width = 420 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhnaman320&theme=github_dark&hide_border=true"/>
   <img width = 420 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhnaman320&theme=github_dark&hide_border=false"/>
   
 </p>
 
+<!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
+
 <!-- OR -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=singhnaman320&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+<!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
