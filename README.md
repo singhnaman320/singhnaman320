@@ -90,8 +90,8 @@ Here are some ideas to get you started:
   
 <!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
   
-  <img width = 48% src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhnaman320&theme=github_dark&hide_border=true"/>
-  <img width = 48% src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhnaman320&theme=github_dark&hide_border=false"/>
+  <img width = 420 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhnaman320&theme=github_dark&hide_border=true"/>
+  <img width = 420 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhnaman320&theme=github_dark&hide_border=false"/>
   
 </p>
 
