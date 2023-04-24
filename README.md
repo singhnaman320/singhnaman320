@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats:
 <p align = "center">
   <img width = 47.2% src="https://github-readme-stats.vercel.app/api?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-<img width = 52% src="https://github-readme-streak-stats.herokuapp.com/?user=singhnaman320&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+<img width = 51.9% src="https://github-readme-streak-stats.herokuapp.com/?user=singhnaman320&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align = "center">
