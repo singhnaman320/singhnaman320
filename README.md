@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 ![Spring Boot](https://img.shields.io/badge/spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring%20Boot&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/Hibernate-white.svg?style=for-the-badge&logo=Hibernate&logoColor=5a6354) 
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-white.svg?style=for-the-badge&logo=Thymeleaf&logoColor=005c0f) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ## 📈 Contribution Graph:
 ![Naman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=singhnaman320&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)
