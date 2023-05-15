@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 ![Hibernate](https://img.shields.io/badge/Hibernate-white.svg?style=for-the-badge&logo=Hibernate&logoColor=5a6354) 
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-white.svg?style=for-the-badge&logo=Thymeleaf&logoColor=005c0f) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 <!-- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) -->
 
 ## 📈 Contribution Graph:
