@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at <a href="https://singhnaman320.github.io/" target="blank">Portfolio</a>
 <!-- **[Portfolio](https://singhnaman320.github.io)** -->
 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/namankumar.singh.3)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/im_singhnaman/)
