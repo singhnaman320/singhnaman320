@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java, Springboot, MYSQL, Hibernate, HTML, CSS, Javascript, Data Structures and Algorithms.**
 
-- 📄 Know about my experiences **[Resume](https://1drv.ms/b/s!AjVEmfDOaqo9hiFqnTQmr9w8u1rb?e=3yeSZ7)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1IKKp4HKD-KcG-z7p4GWVuy3b_DDGkQjQ/view?usp=sharing)**
 
 - 💬 Ask me about **Data Structures and Algorithms, Front-End Technologies, Back-End Technologies**
 
