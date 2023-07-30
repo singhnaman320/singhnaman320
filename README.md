@@ -22,7 +22,6 @@
 - 📫 How to reach me **singhnaman320@gmail.com**
 
 - 👨‍💻 All of my projects are available at <a href="https://singhnaman320.github.io/" target="blank">Portfolio</a>
-<!-- **[Portfolio](https://singhnaman320.github.io)** -->
 
 
 ## 🌐 Socials:
