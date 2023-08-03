@@ -1,4 +1,3 @@
-
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Naman+and+Welcome+to+my+Profile" align="middle" alt="animated type out" width="100%"/> -->
 
 ![MasterHead](https://thumbs.dreamstime.com/b/future-technology-concept-person-using-laptop-computer-future-technology-concept-person-using-laptop-249332126.jpg)
@@ -61,7 +60,7 @@
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=singhnaman320)](https://github.com/singhnaman320/github-readme-activity-graph) -->
 ![Naman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=singhnaman320&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)
 
-<!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
+<!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=- -->
 
 
 <!-- (https://github.com/singhnaman320/github-readme-activity-graph) -->
